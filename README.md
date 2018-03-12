@@ -6,7 +6,7 @@ FuckingQueue is a package to handle events over multiple projects.
 
 ### Where can I use it?
 
-FuckingQueue is currently compatible with:
+FuckingQueue will be compatible with:
 
 * Xamarin.iOS / Xamarin.Mac
 * Xamarin.Android
